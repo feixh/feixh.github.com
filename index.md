@@ -70,7 +70,7 @@ A recent CV is [available here][resume].
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
 
 <!-- ECCV18 -->
-[eccv18_paper]: https://arxiv.org/pdf/1806.08498.pdf
+[eccv18_paper]: https://www.dropbox.com/s/benghuv5tn5vqt6/eccv18_paper.pdf?dl=0
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 
 <!-- CVPR16 -->
