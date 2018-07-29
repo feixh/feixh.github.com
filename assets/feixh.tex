@@ -1,0 +1,161 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[margin, line, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+% \topmargin=-.5in
+% \marginparwidth -0.5in
+\usepackage{anysize}
+\marginsize{0.6in}{0.5in}{0.3in}{0.0in}
+
+\usepackage{helvet} % Default font is the helvetica postscript font
+% \usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+% \usepackage{times}
+\usepackage[hidelinks, colorlinks=true, urlcolor=blue]{hyperref}
+\usepackage{multicol}
+\usepackage{tabularx}
+
+\setlength{\textwidth}{6.1in} % Text width of the document
+\newsectionwidth{1.0in}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------
+
+\moveleft.5\hoffset\centerline{\large\bf Xiaohan Fei} % Your name at the top
+
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+\moveleft.5\hoffset\centerline{%
+\begin{tabular}{ll}
+UCLA VisionLab, Engineering VI \#386  & Phone: (310) 890-8064\\
+University of California, Los Angeles & E-mail: feixh@cs.ucla.edu\\
+Los Angeles, CA 90095, USA & Website: \url{http://feixh.github.io}
+\end{tabular}
+}
+% \vspace{-0.3in}
+%----------------------------------------------------------------------------------------
+\begin{resume}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{OBJECTIVE}
+%
+% A position in the field of computers with special interests in business applications programming, information processing, and management systems.
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{\textsc{Education}}
+\textsc{University of California, Los Angeles}\hfill{Fall 2014-present}\\
+{\bf Ph.D. in Computer Science}\\
+Supervisor: Prof. Stefano Soatto\\
+Research Group: UCLA Vision Lab (\url{http://vision.ucla.edu})\\
+GPA: $3.88/4.0$
+
+\textsc{Zhejiang University}\hfill{Fall 2010-Spring 2014}\\
+{\bf B.Eng. in Information and Communication Engineering}\\
+Major: Information and Communication Engineering\\
+Minor: Advanced honor Class of Engineering Education (ACEE), Chu-Kechen College\\
+GPA: $3.98/4.0 (92.35/100)$\\
+Title of Undergraduate Thesis: Wide-baseline feature matching for panoramic images\\
+Undergraduate Thesis Supervisor: Prof. Zhiyu Xiang
+% \\\hrule
+
+% \section{\textsc{Research\\Interests}}
+% \textsc{Image based localization}\\
+% Image based localization for drift-free navigation and map building. Efficient algorithms for both long-term loop closure detection (visual place recognition) and short-term metric localization.
+% 
+% \textsc{Visual-Inertial-Semantic Scene Representation}\\
+% Semantic scene understsanding and object detection by leveraging visual and inertial sensors.
+
+% \textsc{Pose Graph Optimization}\\
+% Efficient and robust optimization schemes for large-scale pose graph refinement.
+% \\\hrule
+
+\section{\textsc{Research\\Experience}}
+\textsc{NVIDIA Research, Santa Clara, California}\hfill Summer 2018\\
+\textbf{Research Intern}
+
+\textsc{Meta Company, San Mateo, California}\hfill Summer 2017\\
+\textbf{Research Intern}\\
+Developed a tightly-coupled visual-inertial SLAM algorithm for Augmented Reality.
+
+\textsc{University of California, Los Angeles}\hfill Fall 2014-present\\
+\textbf{Graduate Student Researcher}\\
+Conducting research activities under the supervision of Prof. S. Soatto. Main projects include: visual place recognition, fast image based re-localization and visual-inertial sensor fusion for navigation, semantic mapping \& object detection.
+
+\textsc{Zhejiang University, China}\hfill Fall 2013-Spring 2014\\
+\textbf{Undergraduate Thesis}\\
+Developed a Structure from Motion system for panoramic images captured by a camera mounted on a vehicle where scale, orientation and planar motion constraints are explored to improve wide-baseline feature matching.
+% \textsc{University of California, Los Angeles}\hfill Summer 2013\\
+% \textbf{Research Intern}\\
+% Developed a visual recognition system on Samsung Galaxy 4 based on multi-view descriptor aggregation. Investigated ways to handle nuisance variability in feature matching and object recognition.
+
+% \\\hrule
+\section{\textsc{Awards \&\\Distinctions}}
+\textbf{2013:} Meritorious Winner of Mathematical Contest in Modeling (top 15\% of 6000 teams worldwide)\\
+\textbf{2012:} National Scholorship (highest hornor for undergraduates in China)
+% \\\hrule
+\section{\textsc{Publications}}
+
+\textbf{[1]} X. Fei, A. Wong, and S. Soatto. Geo-Supervised Visual Depth Prediction. Under review.\\
+\textbf{[2]} X. Fei, S. Soatto. Visual-Inertial Object Detection and Mapping. To appear ECCV, 2018.\\
+\textbf{[3]} J. Dong$^*$, X. Fei$^*$, and S. Soatto. Visual-Inertial-Semantic Scene Representation for Object Detection. CVPR, 2017.\\
+\textbf{[4]} X. Fei, K. Tsotsos, and S. Soatto. A Simple Hierarchical Pooling Data Structure for Loop Closure. ECCV, 2016.
+
+\section{\textsc{Professional\\Services}}
+Reviewer of ICCV 2017,\\
+International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS).
+\section{\textsc{Talks \&\\Workshops}}
+Visual-Inertial-Semantic Scene Representation, Bridges to 3D Workshop, CVPR 2017
+% \\\hrule
+
+% \section{\textsc{Professional\\Service}}
+% ss
+
+% \section{\textsc{Teaching\\Experience}}
+% \textbf{Fall 2013:} Teaching Assistant \textit{Spectral Analysis of Signals}, ZJU. Instructor: Prof. X. Gong
+% \hrule
+%
+\section{\textsc{Teaching}}
+Spring 2018, CS M152A Introductory Digital Design Laboratory
+\section{\textsc{Relevant\\Coursework}}
+\textbf{University of California, Los Angeles:} Machine Perception (Prof. S. Soatto), Convex Optimization (Prof. L. Vandenberghe), Calculus of Variations (Prof. L. Vese), Vision as Bayesian Inference (Prof. A. Yuille), Applied Probability (Prof. Y. Wu), Theoretical Statistics (Prof. A. Amini), Numerical Analysis (Prof. J. Teran), Machine Learning Algorithm (Prof. M. Sarrafzadeh)\\
+\textbf{Zhejiang University:} Computer Vision (Pof. Z. Xiang), Spectral Analysis of Signals (Prof. X. Gong), Information Theory (Prof. Z. Zhang), Mathematical Modeling (Prof. Q. Yang)
+% Compute Vision: Zhiyu Xiang
+% Spectral Analysis of Signals: Xiaonyi Gong
+% Information Theory: Zhaoyang Zhang
+% Mathematical Modeling: Qifan Yang
+% \\\hrule
+
+% \section{\textsc{Relevant\\Skills}}
+% \textbf{Programming Language:} C/C++, \textsc{Matlab}, Python, AndroidOS, Verilog HDL\\
+% \textbf{Software Frameworks:} ROS, OpenCV, g2o, Ceres-Solver, PyTorch
+
+%----------------------------------------------------------------------------------------
+
+\end{resume}
+\end{document}
