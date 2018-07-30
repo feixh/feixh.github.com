@@ -46,13 +46,17 @@ A recent CV is [available here][resume].
   
 <iframe width="960" height="600" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Preprint
+
+- Geo-Supervised Visual Depth Prediction.\\
+    Xiaohan Fei, Alex Wong, Stefano Soatto\\
+    \[[paper][sigl_paper]\]
+
+<!-- SIGL -->
+[sigl_paper]: invalid
+
 
 ## Publication
-
-<!--
-- Visual-Inertial Object Detection and Mapping. Under review.
-- Geo-Supervised Visual Depth Prediction. Under review.
--->
 
 - Visual-Inertial Object Detection and Mapping.\\
     Xiaohan Fei, Stefano Soatto\\
@@ -68,6 +72,7 @@ A recent CV is [available here][resume].
     Xiaohan Fei, Konstantine Tsotsos, Stefano Soatto.\\
     In *Proceedings of European Conference on Computer Vision*, 2016.\\
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
+
 
 <!-- ECCV18 -->
 [eccv18_paper]: https://www.dropbox.com/s/benghuv5tn5vqt6/eccv18_paper.pdf?dl=0
