@@ -53,7 +53,7 @@ A recent CV is [available here][resume].
     \[[paper][sigl_paper]\]
 
 <!-- SIGL -->
-[sigl_paper]: invalid
+[sigl_paper]: http://arxiv.org/abs/1807.11130
 
 
 ## Publication
