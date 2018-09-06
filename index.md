@@ -61,7 +61,8 @@ A recent CV is [available here][resume].
 - Visual-Inertial Object Detection and Mapping.\\
     Xiaohan Fei, Stefano Soatto\\
     To appear in *Proceedings of European Conference on Computer Vision*, 2018.\\
-    \[[paper][eccv18_paper]\]-\[[video][eccv18_video]\]
+    \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]
+
 
 - Visual-Inertial-Semantic Scene Representation for 3D Object Detection.\\
     Jingming Dong\*, Xiaohan Fei\*, Stefano Soatto.\\
@@ -76,6 +77,7 @@ A recent CV is [available here][resume].
 
 <!-- ECCV18 -->
 [eccv18_paper]: https://www.dropbox.com/s/benghuv5tn5vqt6/eccv18_paper.pdf?dl=0
+[eccv18_poster]: https://www.dropbox.com/s/n0m5lsgodm99x5q/eccv18_poster.pdf?dl=0 
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 
 <!-- CVPR16 -->
@@ -89,7 +91,7 @@ A recent CV is [available here][resume].
 
 <!-- ECCV16 -->
 [eccv16_paper]: https://www.dropbox.com/s/as0py1swfm64m4k/eccv16_paper.pdf?dl=0
-[eccv16_poster]: https://www.dropbox.com/s/duxxtuplq9gxfea/eccv16_poster.pdf?dl=0
+[eccv16_poster]: https://www.dropbox.com/s/9w02c3sard5q0om/eccv16_poster.pdf?dl=0
 
 <!-- SCR16 -->
 [poster_scr16_demo]: https://www.dropbox.com/s/9rwdfw0c4kserkn/scr16_demo_poster.pdf?dl=0
