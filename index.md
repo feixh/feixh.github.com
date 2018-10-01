@@ -44,7 +44,7 @@ A recent CV is [available here][resume].
 - Re-localization and Failure Recovery for SLAM.\\
   \[[video][video_relocalization]\]
   
-<iframe width="960" height="600" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Preprint
 
