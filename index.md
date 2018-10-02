@@ -50,10 +50,10 @@ A recent CV is [available here][resume].
 
 - Geo-Supervised Visual Depth Prediction.\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
-    \[[paper][sigl_paper]\]
+    \[[paper][geosup_paper]\]
 
 <!-- SIGL -->
-[sigl_paper]: http://arxiv.org/abs/1807.11130
+[geosup_paper]: https://www.dropbox.com/s/5bnwck768nboe4v/geosup_paper.pdf?dl=0
 
 
 ## Publication
