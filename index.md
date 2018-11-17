@@ -25,15 +25,10 @@ A recent CV is [available here][resume].
 </center>
 -->
 
+## Code & Data
 
-## News
-- **July 3, 2018** Our paper on *Visual-Inertial Object Detection and Mapping* has been accepted by ECCV 2018.
-- **June 25-Sep 21, 2018** I will intern at NVIDIA Research, Santa Clara.
-- **July 21-26, 2017** We presented our paper at CVPR 2017, Honolulu.
-- **June, 2017** I moved to San Mateo for my summer internship at [Meta Company](https://www.metavision.com/), an Augmented Reality startup.
-- **Oct 12, 2016** We gave a poster presentation of our paper at ECCV 2016, Amsterdam.
-- **June 27, 2016** We gave a demo of our Visual-Inertial Navigation and Semantic Mapping System at [CVPR 2016](http://cvpr2016.thecvf.com/program/demos). Checkout the [video][cvpr16_demo_video] on my youtube channel. You can find the poster [here][cvpr16_demo_poster].
-- **April 22, 2016** We gave a demo of our Visual-Inertial SLAM System at [Southern California Robotics Symposium (SCR)](http://socal-robotics.org/index.html). The poster is [here][poster_scr16_demo].
+- VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[link](https://github.com/feixh/VISMA)\]
+
 
 ## Demo
 
