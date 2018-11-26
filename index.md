@@ -19,12 +19,6 @@ A recent CV is [available here][resume].
 [about_ss]: http://www.cs.ucla.edu/~soatto/
 [about_visionlab]: http://vision.ucla.edu
 
-<!--
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tbxQUXdiXKo" frameborder="0" allowfullscreen></iframe>
-</center>
--->
-
 ## Code & Data
 
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[link](https://github.com/feixh/VISMA)\]
@@ -72,7 +66,7 @@ A recent CV is [available here][resume].
 
 <!-- ECCV18 -->
 [eccv18_paper]: http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaohan_Fei_Visual-Inertial_Object_Detection_ECCV_2018_paper.pdf
-[eccv18_poster]: https://www.dropbox.com/s/n0m5lsgodm99x5q/eccv18_poster.pdf?dl=0 
+[eccv18_poster]: https://www.dropbox.com/s/n0m5lsgodm99x5q/eccv18_poster.pdf?dl=0
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 [eccv18_data]: https://github.com/feixh/VISMA
 

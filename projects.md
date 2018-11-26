@@ -39,14 +39,8 @@ permalink: /Posts/
 
 </div>
 
-## VIM Configuration
+## VIM and TMUX Configuration
 
-1. Configure vim: Put the `.vimrc` [file]({{ site.url }}/assets/vimrc) in your home folder and name it as `.vimrc`.
-2. Create a folder to hold auto-load scripts: `mkdir -p ~/.vim/autoload`.
-3. Install a minimal plugin manager: Put the `plug.vim` [script]({{ site.url }}/assets/plug.vim) in the autoload folder. 
-4. Install plugins: `vim +PlugInstall`.
+Check out this [repo](https://github.com/feixh/vim_tmux_cfg) for my vim and tmux configuration.
 
-## TMUX Configuration
-
-Put this [file]( {{ site.url }}/assets/tmux.conf) in your home folder and name it as `.tmux.conf`.
 
