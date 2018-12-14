@@ -42,7 +42,7 @@ A recent CV is [available here][resume].
     \[[paper][geosup_paper]\]
 
 <!-- SIGL -->
-[geosup_paper]: https://arxiv.org/abs/1807.11130
+[geosup_paper]: https://arxiv.org/abs/1807.11130v3.pdf
 
 
 ## Publication
