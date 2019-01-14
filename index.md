@@ -43,7 +43,7 @@ A recent CV is [available here][resume].
 
 - Geo-Supervised Visual Depth Prediction.\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
-    Priprint, 2018.\\
+    To appear in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
     \[[paper][geosup_paper]\]
 
 - Visual-Inertial Object Detection and Mapping.\\
