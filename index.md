@@ -22,7 +22,11 @@ A recent CV is [available here][resume].
 ## Code & Data
 
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[link](https://github.com/feixh/VISMA)\]
+- GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[link](https://github.com/feixh/GeoSup)\]
 
+## Talk & Workshop
+- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at MagicLeap, 2019.
+- *Visual-Inertial-Semantic Scene Representation*, at Bridges to 3D Workshop, CVPR 2017.
 
 ## Demo
 
@@ -43,7 +47,7 @@ A recent CV is [available here][resume].
 
 - Geo-Supervised Visual Depth Prediction.\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
-    To appear in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
+    To appear in *International Conference on Robotics and Automation*, 2019. Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
     \[[paper][geosup_paper]\]
 
 - Visual-Inertial Object Detection and Mapping.\\
