@@ -24,10 +24,6 @@ A recent CV is [available here][resume].
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[link](https://github.com/feixh/VISMA)\]
 - GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[link](https://github.com/feixh/GeoSup)\]
 
-## Talk & Workshop
-- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at MagicLeap, 2019.
-- *Visual-Inertial-Semantic Scene Representation*, at Bridges to 3D Workshop, CVPR 2017.
-
 ## Demo
 
 - Visual-Inertial Navigation and Semantic Mapping System @ [CVPR 2016](http://cvpr2016.thecvf.com/program/demos).\\
@@ -47,7 +43,8 @@ A recent CV is [available here][resume].
 
 - Geo-Supervised Visual Depth Prediction.\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
-    To appear in *International Conference on Robotics and Automation*, 2019. Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
+    To appear in *International Conference on Robotics and Automation*, 2019.\\
+    Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
     \[[paper][geosup_paper]\]
 
 - Visual-Inertial Object Detection and Mapping.\\
@@ -95,6 +92,12 @@ A recent CV is [available here][resume].
 [video_relocalization]: https://youtu.be/oQKnOHGkwTIh
 [video_pgo]: https://youtu.be/-sbvl6gCwgQ
 [video_cooperative_mapping]: https://youtu.be/iicbK45IzLI
+
+
+## Talk & Workshop
+- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at MagicLeap, 2019.
+- *Visual-Inertial-Semantic Scene Representation*, at Bridges to 3D Workshop, CVPR 2017.
+
 
 ## Teaching
 Spring 2018. CS M152A, Introductory Digital Design Laboratory.
