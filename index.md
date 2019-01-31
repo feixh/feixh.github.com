@@ -50,7 +50,7 @@ A recent CV is [available here][resume].
 - Visual-Inertial Object Detection and Mapping.\\
     Xiaohan Fei, Stefano Soatto\\
     In *Proceedings of European Conference on Computer Vision*, 2018.\\
-    \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]-\[[data][eccv18_data]\]
+    \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]-\[[data][eccv18_data]\]-\[[SupMat][eccv18_supmat]\]
 
 
 - Visual-Inertial-Semantic Scene Representation for 3D Object Detection.\\
@@ -69,6 +69,7 @@ A recent CV is [available here][resume].
 [eccv18_poster]: https://www.dropbox.com/s/n0m5lsgodm99x5q/eccv18_poster.pdf?dl=0
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 [eccv18_data]: https://github.com/feixh/VISMA
+[eccv18_supmat]: {{ site.url }}/assets/0533-supp.pdf
 
 <!-- CVPR16 -->
 [cvpr16_demo_video]: https://youtu.be/Rt2jdurowfE
