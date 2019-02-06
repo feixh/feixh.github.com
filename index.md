@@ -96,7 +96,7 @@ A recent CV is [available here][resume].
 
 
 ## Talk & Workshop
-- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at MagicLeap, 2019.
+- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at Facebook, Microsoft, and MagicLeap, 2019.
 - *Visual-Inertial-Semantic Scene Representation*, at Bridges to 3D Workshop, CVPR 2017.
 
 
