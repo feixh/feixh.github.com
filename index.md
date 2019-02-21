@@ -21,8 +21,10 @@ A recent CV is [available here][resume].
 
 ## Code & Data
 
-- VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[link](https://github.com/feixh/VISMA)\]
-- GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[link](https://github.com/feixh/GeoSup)\]
+- VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code](https://github.com/feixh/VISMA)\]
+- GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code](https://github.com/feixh/GeoSup)\]
+- A minimal implementation of \\(SE(3)\\) \(actually \\(SO(3)\times \mathbb{R}^3 \\)\) in Tensorflow for geometric learning. \[[code](https://github.com/feixh/tensorflow_se3.git)\]
+- A collection of PnP (Perspective-n-Point) RANSAC solvers. \[[code](https://github.com/feixh/PnPRANAAC.git)\]
 
 ## Demo
 
