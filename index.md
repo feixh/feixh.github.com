@@ -4,7 +4,8 @@ layout: default
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <!-- <center> -->
-<img src="images/profile_small.png" alt="Smiley face" >
+<!-- <img src="images/profile_small.png" alt="Smiley face" > -->
+<img src="images/profile_after_iccv19_submission.JPG" alt="Smiley face" >
 <!-- </center> -->
 
 ## About me
