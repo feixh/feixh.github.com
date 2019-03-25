@@ -44,14 +44,14 @@ A recent CV is [available here][resume].
 ## Publication
 
 - Geo-Supervised Visual Depth Prediction.\\
-    Xiaohan Fei, Alex Wong, Stefano Soatto\\
+    Xiaohan Fei, Alex Wong, Stefano Soatto.\\
     To appear in *International Conference on Robotics and Automation*, 2019.\\
-    Finalist of ICRA best robot vision paper \\
+    **Finalist of ICRA best robot vision paper** \\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
     \[[paper][geosup_paper]\]
 
 - Visual-Inertial Object Detection and Mapping.\\
-    Xiaohan Fei, Stefano Soatto\\
+    Xiaohan Fei, Stefano Soatto.\\
     In *Proceedings of European Conference on Computer Vision*, 2018.\\
     \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]-\[[data][eccv18_data]\]-\[[supmat][eccv18_supmat]\]
 
