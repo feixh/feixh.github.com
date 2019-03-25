@@ -43,27 +43,27 @@ A recent CV is [available here][resume].
 
 ## Publication
 
-- Geo-Supervised Visual Depth Prediction.\\
-    Xiaohan Fei, Alex Wong, Stefano Soatto.\\
-    To appear in *International Conference on Robotics and Automation*, 2019.\\
-    **Finalist of ICRA best robot vision paper** \\
-    Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019.\\
+- Geo-Supervised Visual Depth Prediction\\
+    Xiaohan Fei, Alex Wong, Stefano Soatto\\
+    To appear in *International Conference on Robotics and Automation*, 2019\\
+    **Finalist of ICRA Best Robot Vision Paper Award** \\
+    Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][geosup_paper]\]
 
-- Visual-Inertial Object Detection and Mapping.\\
-    Xiaohan Fei, Stefano Soatto.\\
-    In *Proceedings of European Conference on Computer Vision*, 2018.\\
+- Visual-Inertial Object Detection and Mapping\\
+    Xiaohan Fei, Stefano Soatto\\
+    In *Proceedings of European Conference on Computer Vision*, 2018\\
     \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]-\[[data][eccv18_data]\]-\[[supmat][eccv18_supmat]\]
 
 
-- Visual-Inertial-Semantic Scene Representation for 3D Object Detection.\\
-    Jingming Dong\*, Xiaohan Fei\*, Stefano Soatto.\\
-    In *Proceedings of Computer Vision and Pattern Recognition*, 2017.\\
+- Visual-Inertial-Semantic Scene Representation for 3D Object Detection\\
+    Jingming Dong\*, Xiaohan Fei\*, Stefano Soatto\\
+    In *Proceedings of Computer Vision and Pattern Recognition*, 2017\\
     \[[paper][cvpr17_paper]\]-\[[poster][cvpr17_poster]\]-\[[video][cvpr17_video]\]
 
-- A Simple Hierarchical Pooling Data Structure for Loop Closure.\\
-    Xiaohan Fei, Konstantine Tsotsos, Stefano Soatto.\\
-    In *Proceedings of European Conference on Computer Vision*, 2016.\\
+- A Simple Hierarchical Pooling Data Structure for Loop Closure\\
+    Xiaohan Fei, Konstantine Tsotsos, Stefano Soatto\\
+    In *Proceedings of European Conference on Computer Vision*, 2016\\
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
 
 
