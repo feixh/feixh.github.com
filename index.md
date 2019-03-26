@@ -8,7 +8,12 @@ layout: default
 <!-- </center> -->
 
 ## About me
-I'm a PhD candidate at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss]. I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], China, 2014. During my undergraduate, I majored in Information and Electronic Engineering. My research interests include computer vision, robotics and machine learning.
+I'm a 5-th year PhD student at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss].
+My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. Our paper on "Geo-Supervised Visual Depth Prediction" leveraging inertials in visual reconstruction was nominated for the **ICRA best paper award in robot vision**. Fingers crossed ;-)
+
+I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and I was fortunate enough to be a member of the Advanced honor Class of Engineering Education (ACEE), where I mostly enjoyed in mathematical modeling contests, and chatting with friends from other departments of the engineering school.
+
+<!-- In my spare time, if I'm not writing code, I love watching movies (horror ones), reading books, and maybe a little bit gaming. -->
 
 A recent CV is [available here][resume].
 
@@ -104,7 +109,8 @@ A recent CV is [available here][resume].
 
 
 ## Teaching
-Spring 2018. CS M152A, Introductory Digital Design Laboratory.
+- Spring 2018. CS M152A, Introductory Digital Design Laboratory.
+- In undergraduate, I was a TA of the graduate class taught by Prof. Xianyi Gong at Zhejiang University on Spectral Analysis of Signals -- mostly solving problem sets of the [*Linear Estimaion*](https://www.amazon.com/Linear-Estimation-Thomas-Kailath/dp/0130224642) book, and leading discussions.
 
 <!-- google analytics -->
 <script>
