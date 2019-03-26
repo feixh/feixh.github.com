@@ -114,11 +114,6 @@ A recent CV is [available here][resume].
 - Spring 2018. CS M152A, Introductory Digital Design Laboratory.
 - In undergraduate, I was a TA of the graduate class taught by Prof. Xianyi Gong at Zhejiang University on Spectral Analysis of Signals -- mostly solving problem sets of the [*Linear Estimaion*](https://www.amazon.com/Linear-Estimation-Thomas-Kailath/dp/0130224642) book, and leading discussions.
 
-## Random Stuff
-I love tmux and vim, and ThinkPads (relatively powerful but still highly configurable ones, not the recent sealed ones).
-
-
-
 <!-- google analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
