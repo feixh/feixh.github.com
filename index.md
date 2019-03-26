@@ -13,6 +13,8 @@ My research interests include computer vision, robotics and machine learning. Sp
 
 I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and I was fortunate enough to be a member of the Advanced honor Class of Engineering Education (ACEE), where I mostly enjoyed in mathematical modeling contests, and chatting with friends from other departments of the engineering school.
 
+Back in primary school, I taught myself QBasic on a Pentium 4 desktop owned by my dad, and was never be able to write a *useful* spreadsheet application as my dad always joked about.
+
 <!-- In my spare time, if I'm not writing code, I love watching movies (horror ones), reading books, and maybe a little bit gaming. -->
 
 A recent CV is [available here][resume].
@@ -111,6 +113,11 @@ A recent CV is [available here][resume].
 ## Teaching
 - Spring 2018. CS M152A, Introductory Digital Design Laboratory.
 - In undergraduate, I was a TA of the graduate class taught by Prof. Xianyi Gong at Zhejiang University on Spectral Analysis of Signals -- mostly solving problem sets of the [*Linear Estimaion*](https://www.amazon.com/Linear-Estimation-Thomas-Kailath/dp/0130224642) book, and leading discussions.
+
+## Random Stuff
+I love tmux and vim, and ThinkPads (relatively powerful but still highly configurable ones, not the recent sealed ones).
+
+
 
 <!-- google analytics -->
 <script>
