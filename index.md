@@ -9,7 +9,9 @@ layout: default
 
 ## About me
 I'm a 5-th year PhD student at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss].
-My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. Our paper on "Geo-Supervised Visual Depth Prediction" leveraging inertials in visual reconstruction was nominated for the **ICRA best paper award in robot vision**. Fingers crossed ;-)
+My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. 
+
+<!-- Our paper on "Geo-Supervised Visual Depth Prediction" leveraging inertials in visual reconstruction was nominated for the **ICRA best paper award in robot vision**. Fingers crossed ;-) -->
 
 I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and I was fortunate enough to be a member of the Advanced honor Class of Engineering Education (ACEE), where I mostly enjoyed in mathematical modeling contests, and chatting with friends from other departments of the engineering school.
 
@@ -53,7 +55,7 @@ A recent CV is [available here][resume].
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
     To appear in *International Conference on Robotics and Automation*, 2019\\
-    **Finalist of ICRA Best Robot Vision Paper Award** \\
+    <!-- **Finalist of ICRA Best Robot Vision Paper Award** \\ -->
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][geosup_paper]\]
 
