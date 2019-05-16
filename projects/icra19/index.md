@@ -1,6 +1,8 @@
 ---
 layout: post
+title: ""
 permlink: /projects/
+exclude: true
 ---
 
 ## Geo-Supervised Visual Depth Prediction
@@ -11,8 +13,8 @@ We propose using global orientation from inertial measurements, and the bias it 
 
 
 [icra19_paper]: https://arxiv.org/abs/1807.11130v3.pdf
-[icra19_poster]: empty.html
-[icra19_slides]: empty.html
+[icra19_poster]: {{site.url}}/empty.html
+[icra19_slides]: {{site.url}}/empty.html
 [icra19_code]: https://github.com/feixh/GeoSup
 
 ---
