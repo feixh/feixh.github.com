@@ -4,5 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-- [Geo-Supervised Visual Depth Prediction](icra19_site/geosup.html)
+- [Geo-Supervised Visual Depth Prediction](icra19/index.html)
 
