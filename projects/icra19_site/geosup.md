@@ -19,7 +19,9 @@ We propose using global orientation from inertial measurements, and the bias it 
 
 Typical self-supervised depth prediction systems learn to predict depth by minimizing a photometric loss, known as the data term in the variational optimization literature, and a generic regularizer -- usually a local smoothness term (marked in red in the figure below). The figure below shows two typical training pipelines in both stereo and monocular settings.
 
-<img src="icra19_site/typical_nets.svg" alt="">
+<img src="typical_nets.svg" alt="">
+
+---
 
 Given enough examples, the model hopefully will learn the correlation of shapes and gravity for some objects, for instance, buildings tend to be normal to the ground plane, and roads are orthogonal to gravity. 
 
@@ -27,20 +29,20 @@ Given enough examples, the model hopefully will learn the correlation of shapes 
 
 By introducing the *semantically informed geometric loss (SIGL)* and an off-the-shelf semantic segmentation module in training time, we are able to impose such priors to the model, and greatly reduce the training samples needed while achieve better performance than baseline models without such priors. The figure below shows how we do so in both stereo and monocular training settings.
 
-<img src="icra19_site/our_nets.svg" alt="">
+<img src="our_nets.svg" alt="">
+
+---
 
 SIGL consists of two terms: $$L_{HP}$$, applied to horizontal planes such roads and sidewalks, and $$L_{VP}$$ applied to vertical planes such as walls and fences. In short, $$L_{HP}$$ penalizes the deviation of surface normals from the direction of gravity, and $$L_{VP}$$ penalizes the deviation of surface normals from the direction orthogonal to gravity. The figures below illustrate them.
 
-<img src="icra19_site/lvp.svg" alt="">
+<img src="lvp.svg" alt="">
 
-<img src="icra19_site/lhp.svg" alt="">
+<img src="lhp.svg" alt="">
 
-The following figures show head-to-head comparisons to top-performing baseline models on both outdoor and indoor, stereo and monocular training settings.
+---
 
-<img src="icra19_site/outdoor.svg" alt="">
+The following figures show head-to-head comparisons to top-performing baseline models on both outdoor (KITTI) and indoor (our visual-inertial and depth) datasets, stereo (Godard *et al.*) and monocular (Yin *et al.*) training settings.
 
-<img src="icra19_site/indoor.svg" alt="">
-
-
+<img src="comparison.svg" alt="">
 
 For more details of our system and experiments, please see the [slides][icra19_slides] and the [paper][icra19_paper].
