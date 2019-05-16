@@ -30,8 +30,8 @@ A recent CV is [available here][resume].
 
 ## Code & Data
 
-- VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code](https://github.com/feixh/VISMA)\]
-- GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code](https://github.com/feixh/GeoSup)\]
+- VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code][eccv18_data]\]
+- GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code][icra19_code]\]
 - A minimal implementation of \\(SE(3)\\) \(actually \\(SO(3)\times \mathbb{R}^3 \\)\) in Tensorflow for geometric learning. \[[code](https://github.com/feixh/tensorflow_se3.git)\]
 - A collection of PnP (Perspective-n-Point) RANSAC solvers. \[[code](https://github.com/feixh/PnPRANAAC.git)\]
 
@@ -46,18 +46,14 @@ A recent CV is [available here][resume].
   
 <iframe width="640" height="480" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<!-- SIGL -->
-[geosup_paper]: https://arxiv.org/abs/1807.11130v3.pdf
-
-
 ## Publication
 
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
-    To appear in *International Conference on Robotics and Automation*, 2019\\
-    <!-- **Finalist of ICRA Best Robot Vision Paper Award** \\ -->
+    In *International Conference on Robotics and Automation*, 2019\\
+    <!-- **Finalist of Best Robot Vision Paper Award** \\ -->
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
-    \[[paper][geosup_paper]\]
+    \[[paper][icra19_paper]\]-\[[poster][icra19_poster]\]-\[[slides][icra19_slides]\]-\[[code][icra19_code]\]
 
 - Visual-Inertial Object Detection and Mapping\\
     Xiaohan Fei, Stefano Soatto\\
@@ -75,6 +71,11 @@ A recent CV is [available here][resume].
     In *Proceedings of European Conference on Computer Vision*, 2016\\
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
 
+<!-- ICRA19 -->
+[icra19_paper]: https://arxiv.org/abs/1807.11130v3.pdf
+[icra19_poster]: empty.html
+[icra19_slides]: empty.html
+[icra19_code]: https://github.com/feixh/GeoSup
 
 <!-- ECCV18 -->
 [eccv18_paper]: http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaohan_Fei_Visual-Inertial_Object_Detection_ECCV_2018_paper.pdf
@@ -82,6 +83,7 @@ A recent CV is [available here][resume].
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 [eccv18_data]: https://github.com/feixh/VISMA
 [eccv18_supmat]: {{ site.url }}/assets/0533-supp.pdf
+
 
 <!-- CVPR16 -->
 [cvpr16_demo_video]: https://youtu.be/Rt2jdurowfE
