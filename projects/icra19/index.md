@@ -1,11 +1,10 @@
 ---
-layout: post
-title: ""
+layout: site
+title: Geo-Supervised Visual Depth Prediction
 permlink: /projects/
 exclude: true
 ---
 
-## Geo-Supervised Visual Depth Prediction
 [Xiaohan Fei](https://feixh.github.io), [Alex Wong](http://web.cs.ucla.edu/~alexw/), and [Stefano Soatto](http://web.cs.ucla.edu/~soatto/)
 
 [UCLA Vision Lab](http://vision.ucla.edu/)
