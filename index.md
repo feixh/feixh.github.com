@@ -3,21 +3,17 @@ layout: default
 ---
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-<!-- <center> -->
 <img src="images/profile_small.jpg" alt="Smiley face" >
-<!-- </center> -->
 
 ## About me
 I'm a 5-th year PhD student at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss].
 My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. 
 
-<!-- Our paper on "Geo-Supervised Visual Depth Prediction" leveraging inertials in visual reconstruction was nominated for the **ICRA best paper award in robot vision**. Fingers crossed ;-) -->
-
 I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and I was fortunate enough to be a member of the Advanced honor Class of Engineering Education (ACEE), where I mostly enjoyed in mathematical modeling contests, and chatting with friends from other departments of the engineering school.
 
+{% comment %} 
 Back in primary school, I taught myself QBasic on a Pentium 4 desktop owned by my dad, and was never be able to write a *useful* spreadsheet application as my dad always joked about.
-
-<!-- In my spare time, if I'm not writing code, I love watching movies (horror ones), reading books, and maybe a little bit gaming. -->
+{% endcomment %}
 
 A recent CV is [available here][resume].
 
@@ -51,7 +47,7 @@ A recent CV is [available here][resume].
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2019\\
-    <!-- **Finalist of Best Robot Vision Paper Award** \\ -->
+    *Finalist* of **Best Robot Vision Paper Award** \\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][icra19_paper]\]-\[[poster][icra19_poster]\]-\[[slides][icra19_slides]\]-\[[code][icra19_code]\]
 
@@ -90,7 +86,6 @@ A recent CV is [available here][resume].
 [cvpr16_demo_poster]: https://www.dropbox.com/s/2c33vatb2lnoz0z/cvpr16_demo_poster.pdf?dl=0
 
 <!-- CVPR17 -->
-<!-- [cvpr17_paper]: https://www.dropbox.com/s/g0ro1rddqnbsubt/cvpr17_paper.pdf?dl=0 -->
 [cvpr17_paper]: http://openaccess.thecvf.com/content_cvpr_2017/papers/Dong_Visual-Inertial-Semantic_Scene_Representation_CVPR_2017_paper.pdf
 [cvpr17_poster]: https://www.dropbox.com/s/0phis714b5pnagk/cvpr17_poster.pdf?dl=0
 [cvpr17_video]: https://youtu.be/tbxQUXdiXKo

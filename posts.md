@@ -4,16 +4,14 @@ title: Random
 permalink: /posts/
 ---
 
-<!--
+{% comment %}
+
 {% for post in site.posts %}
 * {{ post.date | date: "%b %-d, %Y" }}\>\>
   [ {{ post.title }}]({{ post.url | prepend: site.baseurl }})
-
 {% endfor %}
 
--->
-
-<!-- add post under the folder _posts and then the post would pop up under the random_bits menu -->
+{% endcomment %}
 
 <!-- Original Html Page -->
 <div class="Blogs">
