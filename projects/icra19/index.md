@@ -16,7 +16,7 @@ We propose using global orientation from inertial measurements, and the bias it 
 
 [icra19_paper]: https://arxiv.org/abs/1807.11130v3.pdf
 [icra19_poster]: https://docs.google.com/presentation/d/15iNPC1V6dx52CqyeNivtYySM-cqvE0ghAH9C8Tzd6yQ/edit?usp=sharing
-[icra19_slides]: {{site.url}}/empty.html
+[icra19_slides]: https://docs.google.com/presentation/d/1okyWsSpKIzcbfvCD8VkkuLlcV8cHKxxQKH4Xy2JSPOQ/edit?usp=sharing
 [icra19_code]: https://github.com/feixh/GeoSup
 
 ---
