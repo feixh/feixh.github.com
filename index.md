@@ -7,7 +7,7 @@ layout: default
 
 ## About me
 I'm a 5-th year PhD student at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss].
-My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. 
+My research interests include computer vision, robotics and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real world problems in multi-sensor settings. I was fortunate enough to be given the best paper award in robot vision at ICRA 2019 for our paper on *Geo-Supervised Visual Depth Prediction*.
 
 I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and I was fortunate enough to be a member of the Advanced honor Class of Engineering Education (ACEE), where I mostly enjoyed in mathematical modeling contests, and chatting with friends from other departments of the engineering school.
 
@@ -42,12 +42,19 @@ A recent CV is [available here][resume].
   
 <iframe width="640" height="480" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
 ## Publication
+
+- VOICED: Depth Completion from Inertial Odometry and Vision \\
+    Alex Wong\*, Xiaohan Fei\*, Stefano Soatto\\
+    \[[preprint][iccv19_paper]\]
+
+[iccv19_paper]:https://arxiv.org/abs/1905.08616
 
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2019\\
-    *Finalist* of **Best Robot Vision Paper Award** \\
+    **Best Robot Vision Paper Award** \\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][icra19_paper]\]-\[[poster][icra19_poster]\]-\[[slides][icra19_slides]\]-\[[code][icra19_code]\]
 

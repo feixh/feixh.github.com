@@ -32,6 +32,7 @@
 \usepackage[hidelinks, colorlinks=true, urlcolor=blue]{hyperref}
 \usepackage{multicol}
 \usepackage{tabularx}
+\usepackage{enumitem}
 
 \setlength{\textwidth}{6.1in} % Text width of the document
 \newsectionwidth{1.0in}
@@ -84,12 +85,12 @@ Title of Undergraduate Thesis: Wide-baseline feature matching for panoramic imag
 Undergraduate Thesis Supervisor: Prof. Zhiyu Xiang
 % \\\hrule
 
-% \section{\textsc{Research\\Interests}}
-% \textsc{Image based localization}\\
-% Image based localization for drift-free navigation and map building. Efficient algorithms for both long-term loop closure detection (visual place recognition) and short-term metric localization.
-% 
-% \textsc{Visual-Inertial-Semantic Scene Representation}\\
-% Semantic scene understsanding and object detection by leveraging visual and inertial sensors.
+\section{\textsc{Research\\Interests}}
+\textsc{Image based localization}\\
+Image based localization for drift-free navigation and map building. Efficient algorithms for both long-term map building and short-term metric localization.
+
+\textsc{Visual-Inertial-Semantic Scene Representation}\\
+Semantic scene understsanding and object detection by leveraging visual and inertial sensors.
 
 % \textsc{Pose Graph Optimization}\\
 % Efficient and robust optimization schemes for large-scale pose graph refinement.
@@ -117,27 +118,33 @@ Conducting research activities under the supervision of Prof. S. Soatto. Main pr
 
 % \\\hrule
 \section{\textsc{Awards \&\\Distinctions}}
-\textbf{2019:} \textit{Finalist} of ICRA Best Paper Award in Robot Vision.\\
+\textbf{2019:} ICRA Best Paper Award in Robot Vision (1/2900)\\
 \textbf{2013:} \textit{Meritorious Winner} of Mathematical Contest in Modeling (top 15\% of 6000 teams worldwide)\\
 \textbf{2012:} National Scholorship (highest hornor for undergraduates in China)
 % \\\hrule
 \section{\textsc{Publications}}
-\textbf{[1]} X. Fei, A. Wong, and S. Soatto. Geo-Supervised Visual Depth Prediction. 
+
+\begin{enumerate}[label={[\arabic*]},leftmargin=*]
+\item
+A. Wong$^*$, X. Fei$^*$, and S. Soatto. VOICED: Depth Completion from Inertial Odometry and Vision. (under review, 2019)
+\item 
+X. Fei, A. Wong, and S. Soatto. Geo-Supervised Visual Depth Prediction. 
 In \textit{International Conference on Robotics and Automation} (ICRA), 2019. 
-(\textbf{best robot vision paper finalist})
-Also in \textit{IEEE Robotics and Automation Letters} (RA-L).\\
-\textbf{[2]} X. Fei, S. Soatto. Visual-Inertial Object Detection and Mapping. 
-In \textit{European Conference on Computer Vision} (ECCV), 2018.\\
-\textbf{[3]} J. Dong$^*$, X. Fei$^*$, and S. Soatto. Visual-Inertial-Semantic Scene Representation for Object Detection. 
-In \textit{Computer Vision and Pattern Recognition} (CVPR), 2017.\\
-\textbf{[4]} X. Fei, K. Tsotsos, and S. Soatto. A Simple Hierarchical Pooling Data Structure for Loop Closure. 
+(\textbf{best robot vision paper})
+Also in \textit{IEEE Robotics and Automation Letters} (RA-L).
+\item 
+X. Fei, S. Soatto. Visual-Inertial Object Detection and Mapping. 
+In \textit{European Conference on Computer Vision} (ECCV), 2018.
+\item 
+J. Dong$^*$, X. Fei$^*$, and S. Soatto. Visual-Inertial-Semantic Scene Representation for Object Detection. 
+In \textit{Computer Vision and Pattern Recognition} (CVPR), 2017.
+\item 
+X. Fei, K. Tsotsos, and S. Soatto. A Simple Hierarchical Pooling Data Structure for Loop Closure. 
 In \textit{European Conference on Computer Vision} (ECCV), 2016.
+\end{enumerate}
 
 \section{\textsc{Professional\\Services}}
-Reviewer of \\
-International Conference on Intelligent Robots (IROS) 2019 \\
-International Conference on Computer Vision (ICCV) 2017 \& 2019\\
-International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS)
+Reviewer of IROS 2019, ICCV 2017 \& 2019, and IJMRCAS (International Journal of Medical Robotics and Computer Assisted Surgery).
 
 \section{\textsc{Talks \&\\Workshops}}
 \textit{Inertial-aided Visual Perception for Localization, Mapping, and Detection}, at Magic Leap, 2019.
