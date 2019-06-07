@@ -27,7 +27,7 @@ CVPR 2018
 **Ray Potential MRF Formulation**:
 
  Each voxel $i \in \Omega$ is assigned a binary occupancy variable $o_i$. Ordered set $\mathbf{o}_r\doteq(o_1^r, o_2^r,\cdots,o_{N_r}^r)$ denotes voxels interecting a single ray $r \in \mathcal{R}$. Joint distribution over all the occupancy variables $\mathbf{o}=\{o_i| i \in \Omega\}$ is:
- 
+
 $$
 p(\mathbf{o})=\frac{1}{Z}\prod_{i \in \Omega} \phi_i(o_i) \prod_{r \in \mathcal R} \psi_r(\mathbf{o}_r)
 $$
@@ -428,7 +428,9 @@ $$
 
 $$
 S_{n'm'}=\max_{l'} U_{n'm'l'}
-$$ where 
+$$ 
+
+where 
 
 - Loss:
     - If 3D volumetric ground truth $V$ is available: $L_{vol}(I^{(k)})=\| f(I^{(k)}) - V\|_2^2$

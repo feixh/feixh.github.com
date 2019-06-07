@@ -5,7 +5,6 @@ permalink: /notes/
 ---
 
 - [VIM and TMUX Configuration](https://github.com/feixh/vim_tmux_cfg)
-
 {% comment %}
 - [Deep Learning - Depth Estimation 1](oldnotes/depth_estimation1.html)
 - [Deep Learning - Depth Estimation 2](oldnotes/depth_estimation2.html)
