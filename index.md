@@ -16,10 +16,11 @@ processEscapes: true
 <img src="images/profile_small.jpg" alt="Smiley face" >
 
 ## About me
-I'm a 5-th year PhD student at [UCLA Vision Lab][about_visionlab], working with [Prof. Stefano Soatto][about_ss].
+I recently defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics*. In the past 5 years, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
+
 My research interests include computer vision, robotics, and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real-world problems in multi-sensor settings. 
 
-Our paper *Geo-Supervised Visual Depth Prediction* about leveraging visual-inertial sensor packages, and gravity-induced shape priors to improve depth prediction was awarded the *Best Paper in Robotic Vision* at ICRA 2019, out of 2900 submissions.
+Our paper *Geo-Supervised Visual Depth Prediction* about leveraging visual-inertial sensor packages, and gravity-induced shape priors to improve depth prediction has won the *Best Paper Award in Robot Vision* at ICRA 2019, out of 2900 submissions.
 
 Before joining Vision Lab, I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and it was my great pleasure be a member of the Advanced honor Class of Engineering Education (ACEE), where I practiced a lot in mathematical modeling contests and enjoyed exchanging ideas with other engineering students.
 
@@ -62,7 +63,7 @@ A recent CV is [available here][resume].
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2019\\
-    **Best Paper in Robotic Vision** \\
+    **(Best Paper Award in Robot Vision)** \\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][icra19_paper]\]-\[[poster][icra19_poster]\]-\[[slides][icra19_slides]\]-\[[code][icra19_code]\]
 
