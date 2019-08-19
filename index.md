@@ -22,7 +22,7 @@ My research interests include computer vision, robotics, and machine learning. S
 
 Our paper *Geo-Supervised Visual Depth Prediction* about leveraging visual-inertial sensor packages, and gravity-induced shape priors to improve depth prediction has won the *Best Paper Award in Robot Vision* at ICRA 2019, out of 2900 submissions.
 
-Before joining Vision Lab, I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and it was my great pleasure be a member of the Advanced honor Class of Engineering Education (ACEE), where I practiced a lot in mathematical modeling contests and enjoyed exchanging ideas with other engineering students.
+Before joining Vision Lab, I\'ve obtained my B.Eng. from [Zhejiang University][about_zju], Hangzhou, China, 2014. I majored in Information and Electronic Engineering in undergraduate, and it was my great pleasure to be a member of the Advanced honor Class of Engineering Education (ACEE), where I practiced a lot in mathematical modeling contests and enjoyed exchanging ideas with other engineering majors.
 
 A recent CV is [available here][resume].
 
@@ -35,6 +35,7 @@ A recent CV is [available here][resume].
 
 ## Code & Data
 
+- XIVO (X Inertial-aided Visual Odometry) or yet another visual-inertial odometry.\[[code](https://github.com/feixh/xivo)\]
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code][eccv18_data]\]
 - GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code][icra19_code]\]
 - A minimal implementation of \\(SE(3)\\) \(actually \\(SO(3)\times \mathbb{R}^3 \\)\) in Tensorflow for geometric learning. \[[code](https://github.com/feixh/tensorflow_se3.git)\]
