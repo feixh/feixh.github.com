@@ -33,13 +33,22 @@ A recent CV is [available here][resume].
 [about_ss]: http://www.cs.ucla.edu/~soatto/
 [about_visionlab]: http://vision.ucla.edu
 
+## What's new
+
+We open-sourced our implementation of Visual-Inertial Odometry. Check out the code [here][xivo_code].
+
+[![xivo_demo](assets/demo.gif)][xivo_code]
+
+[xivo_code]:https://github.com/feixh/xivo
+
 ## Code & Data
 
-- XIVO (X Inertial-aided Visual Odometry) or yet another visual-inertial odometry.\[[code](https://github.com/feixh/xivo)\]
+- XIVO (X Inertial-aided Visual Odometry) or yet another visual-inertial odometry.\[[code][xivo_code]\]
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code][eccv18_data]\]
 - GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code][icra19_code]\]
 - A minimal implementation of \\(SE(3)\\) \(actually \\(SO(3)\times \mathbb{R}^3 \\)\) in Tensorflow for geometric learning. \[[code](https://github.com/feixh/tensorflow_se3.git)\]
 - A collection of PnP (Perspective-n-Point) RANSAC solvers. \[[code](https://github.com/feixh/PnPRANAAC.git)\]
+
 
 ## Demo
 
