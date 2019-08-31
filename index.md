@@ -37,9 +37,15 @@ A recent CV is [available here][resume].
 
 We open-sourced our implementation of Visual-Inertial Odometry. Check out the code [here][xivo_code].
 
-[![xivo_demo](assets/demo.gif)][xivo_code]
+[![xivo_demo_ucla](assets/demo_ucla_e6.gif)][xivo_code]
 
-[xivo_code]:https://github.com/feixh/xivo
+XIVO running on our own data.
+
+[![xivo_demo_tumvi](assets/demo_tumvi.gif)][xivo_code]
+
+XIVO running on TUM-VI dataset.
+
+[xivo_code]:https://github.com/ucla-vision/xivo
 
 ## Code & Data
 
