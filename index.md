@@ -68,7 +68,23 @@ XIVO running on TUM-VI dataset.
 <iframe width="640" height="480" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+## Thesis 
+
+- Ph.D. Thesis: Inertial-aided Visual Perception of Geometry and Semantics\\
+    \[[manuscript][phd_thesis]\]-\[[slides][defense_slides]\]
+
+[phd_thesis]: {{site.url}}
+[defense_slides]: {{site.url}}
+
+- B.Eng. Thesis: Robust wide-baseline feature matching for panoramic images (in Chinese)\\
+    \[[manuscript][beng_thesis]\]
+
+[beng_thesis]: {{site.url}}
+
+
+
 ## Publication
+
 
 - VOICED: Depth Completion from Inertial Odometry and Vision \\
     Alex Wong\*, Xiaohan Fei\*, Stefano Soatto\\
@@ -134,6 +150,10 @@ XIVO running on TUM-VI dataset.
 [video_relocalization]: https://youtu.be/oQKnOHGkwTIh
 [video_pgo]: https://youtu.be/-sbvl6gCwgQ
 [video_cooperative_mapping]: https://youtu.be/iicbK45IzLI
+
+## Professional Services
+
+Reviewer of CVPR, ICCV, IROS, and AAAI.
 
 
 ## Talk & Workshop
