@@ -153,7 +153,7 @@ XIVO running on TUM-VI dataset.
 
 ## Professional Services
 
-Reviewer of CVPR, ICCV, IROS, and AAAI.
+Reviewer of CVPR, ICCV, ICRA, IROS, and AAAI.
 
 
 ## Talk & Workshop
