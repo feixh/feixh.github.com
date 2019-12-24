@@ -73,11 +73,12 @@ XIVO running on TUM-VI dataset.
 - Ph.D. Thesis: Inertial-aided Visual Perception of Geometry and Semantics\\
     \[[manuscript][phd_thesis]\]-\[[slides][defense_slides]\]
 
-[phd_thesis]: {{site.url}}
-[defense_slides]: {{site.url}}
+[phd_thesis]: https://escholarship.org/content/qt9pd173p9/qt9pd173p9.pdf
+[defense_slides]: https://www.dropbox.com/s/53hllw7mrxxmpn5/XiaohanFei_defense.pdf?dl=0 
 
-- B.Eng. Thesis: Robust wide-baseline feature matching for panoramic images (in Chinese)\\
-    \[[manuscript][beng_thesis]\]
+- B.Eng. Thesis: Robust wide-baseline feature matching for panoramic images (in Chinese)
+
+    <!-- \[[manuscript][beng_thesis]\] -->
 
 [beng_thesis]: {{site.url}}
 
@@ -153,11 +154,11 @@ XIVO running on TUM-VI dataset.
 
 ## Professional Services
 
-Reviewer of CVPR, ICCV, ICRA, IROS, and AAAI.
+Reviewer of major vision (CVPR, ICCV, and ECCV), and robotics (ICRA, IROS) conferences.
 
 
 ## Talk & Workshop
-- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at Facebook, Microsoft, and MagicLeap, 2019.
+- *Inertial-aided Visual Perception for Localization, Mapping, and Detection*, at Facebook Reality Labs, Microsoft Research, and MagicLeap, 2019.
 - *Visual-Inertial-Semantic Scene Representation*, at Bridges to 3D Workshop, CVPR 2017.
 
 
