@@ -89,9 +89,11 @@ XIVO running on TUM-VI dataset.
 
 - VOICED: Depth Completion from Inertial Odometry and Vision \\
     Alex Wong\*, Xiaohan Fei\*, Stefano Soatto\\
-    \[[preprint][iccv19_paper]\]
+    In *International Conference on Robotics and Automation*, 2020\\
+    Also in *IEEE Robotics and Automation Letters (RA-L)*, 2020\\
+    \[[preprint][icra20_preprint]\]
 
-[iccv19_paper]:https://arxiv.org/abs/1905.08616
+[icra20_preprint]:https://arxiv.org/abs/1905.08616
 
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, Stefano Soatto\\
