@@ -16,7 +16,7 @@ processEscapes: true
 <img src="images/profile_small.jpg" alt="Smiley face" >
 
 ## About me
-I recently defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics*. In the past 5 years, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
+I defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics* in August 2019. From Sept. 2014 - Sept. 2019, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
 
 My research interests include computer vision, robotics, and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real-world problems in multi-sensor settings. 
 
@@ -33,7 +33,7 @@ A recent CV is [available here][resume].
 [about_ss]: http://www.cs.ucla.edu/~soatto/
 [about_visionlab]: http://vision.ucla.edu
 
-### Awards & Distinctions
+## Awards & Distinctions
 - Best Paper Award in Robot Vision, ICRA 2019.
 - Meritorious Winner of Mathematical Contest in Modeling, 2013.
 - National Scholarship, Ministry of Education, China.
