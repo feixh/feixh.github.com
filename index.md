@@ -15,6 +15,8 @@ processEscapes: true
 
 <img src="images/profile_small.jpg" alt="Smiley face" >
 
+*Seeking Truth, Pursuing Innovation.*
+
 ## About me
 I defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics* in August 2019. From Sept. 2014 - Sept. 2019, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
 
