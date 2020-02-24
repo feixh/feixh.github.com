@@ -33,6 +33,11 @@ A recent CV is [available here][resume].
 [about_ss]: http://www.cs.ucla.edu/~soatto/
 [about_visionlab]: http://vision.ucla.edu
 
+### Awards & Distinctions
+- Best Paper Award in Robot Vision, ICRA 2019.
+- Meritorious Winner of Mathematical Contest in Modeling, 2013.
+- National Scholarship, Ministry of Education, China.
+
 ## What's new
 
 We open-sourced our implementation of Visual-Inertial Odometry. Check out the code [here][xivo_code].
@@ -47,7 +52,7 @@ XIVO running on TUM-VI dataset.
 
 [xivo_code]:https://github.com/ucla-vision/xivo
 
-## Code & Data
+## Software
 
 - XIVO (X Inertial-aided Visual Odometry) or yet another visual-inertial odometry.\[[code][xivo_code]\]
 - VISMA dataset and utilities for our ECCV paper on *Visual-Inertial Object Detection and Mapping*. \[[code][eccv18_data]\]
@@ -76,7 +81,7 @@ XIVO running on TUM-VI dataset.
 [phd_thesis]: https://escholarship.org/content/qt9pd173p9/qt9pd173p9.pdf
 [defense_slides]: https://www.dropbox.com/s/53hllw7mrxxmpn5/XiaohanFei_defense.pdf?dl=0 
 
-- B.Eng. Thesis: Robust wide-baseline feature matching for panoramic images (in Chinese)
+- B.Eng. Thesis: Robust Wide-baseline Feature Matching for Panoramic Images (in Chinese)
 
     <!-- \[[manuscript][beng_thesis]\] -->
 
@@ -88,7 +93,7 @@ XIVO running on TUM-VI dataset.
 
 
 - VOICED: Depth Completion from Inertial Odometry and Vision \\
-    Alex Wong\*, Xiaohan Fei\*, Stefano Soatto\\
+    Alex Wong\*, Xiaohan Fei\*,  Stephanie Tsuei, and Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2020\\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2020\\
     \[[preprint][icra20_preprint]\]
@@ -96,25 +101,25 @@ XIVO running on TUM-VI dataset.
 [icra20_preprint]:https://arxiv.org/abs/1905.08616
 
 - Geo-Supervised Visual Depth Prediction\\
-    Xiaohan Fei, Alex Wong, Stefano Soatto\\
+    Xiaohan Fei, Alex Wong, and Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2019\\
     **(Best Paper Award in Robot Vision)** \\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2019\\
     \[[paper][icra19_paper]\]-\[[poster][icra19_poster]\]-\[[slides][icra19_slides]\]-\[[code][icra19_code]\]
 
 - Visual-Inertial Object Detection and Mapping\\
-    Xiaohan Fei, Stefano Soatto\\
+    Xiaohan Fei and Stefano Soatto\\
     In *Proceedings of European Conference on Computer Vision*, 2018\\
     \[[paper][eccv18_paper]\]-\[[poster][eccv18_poster]\]-\[[video][eccv18_video]\]-\[[data][eccv18_data]\]-\[[supmat][eccv18_supmat]\]
 
 
 - Visual-Inertial-Semantic Scene Representation for 3D Object Detection\\
-    Jingming Dong\*, Xiaohan Fei\*, Stefano Soatto\\
+    Jingming Dong\*, Xiaohan Fei\*, and Stefano Soatto\\
     In *Proceedings of Computer Vision and Pattern Recognition*, 2017\\
     \[[paper][cvpr17_paper]\]-\[[poster][cvpr17_poster]\]-\[[video][cvpr17_video]\]
 
 - A Simple Hierarchical Pooling Data Structure for Loop Closure\\
-    Xiaohan Fei, Konstantine Tsotsos, Stefano Soatto\\
+    Xiaohan Fei, Konstantine Tsotsos, and Stefano Soatto\\
     In *Proceedings of European Conference on Computer Vision*, 2016\\
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
 
