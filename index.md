@@ -13,7 +13,7 @@ processEscapes: true
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-<img src="images/profile_small.jpg" alt="Smiley face" >
+<img src="images/good_old_profile.jpg" alt="Smiley face" >
 
 *Seeking Truth, Pursuing Innovation.*
 
