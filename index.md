@@ -94,6 +94,7 @@ XIVO running on TUM-VI dataset.
 ## Publication
 
 - An Adaptive Framework for Learning Unsupervised Depth Completion. \\
+    Alex Wong, Xiaohan Fei, Byung-Woo Hong, and Stefano Soatto\\
     To appear in *IEEE Robotics and Automation Letters* (RA-L), 2021.
 
 
