@@ -93,8 +93,11 @@ XIVO running on TUM-VI dataset.
 
 ## Publication
 
+- An Adaptive Framework for Learning Unsupervised Depth Completion. \\
+    To appear in *IEEE Robotics and Automation Letters* (RA-L), 2021.
 
-- VOICED: Depth Completion from Inertial Odometry and Vision \\
+
+- Unsupervised Depth Completion from Visual-Inertial Odometry\\
     Alex Wong\*, Xiaohan Fei\*,  Stephanie Tsuei, and Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2020\\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2020\\
