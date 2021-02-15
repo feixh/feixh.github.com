@@ -3,3 +3,7 @@ _site
 *.log
 *.backup
 Gemfile.lock
+assets/feixh*
+!assets/feixh.pdf
+!assets/feixh.tex
+.DS_Store
