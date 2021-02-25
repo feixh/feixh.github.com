@@ -15,7 +15,7 @@ processEscapes: true
 
 <img src="images/good_old_profile.jpg" alt="Smiley face" >
 
-*Seeking Truth, Pursuing Innovation.*
+<!-- *Seeking Truth, Pursuing Innovation.* -->
 
 ## About me
 I defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics* in August 2019. From Sept. 2014 - Sept. 2019, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
@@ -35,24 +35,22 @@ A recent CV is [available here][resume].
 [about_ss]: http://www.cs.ucla.edu/~soatto/
 [about_visionlab]: http://vision.ucla.edu
 
+The video below shows [XIVO][xivo_code] -- our open-sourced VIO.
+[![xivo_demo_ucla](assets/demo_ucla_e6.gif)][xivo_code]
+<!-- [![xivo_demo_tumvi](assets/demo_tumvi.gif)][xivo_code]
+XIVO running on TUM-VI dataset. -->
+
 ## Awards & Distinctions
+
 - Best Paper Award in Robot Vision, ICRA 2019.
 - Meritorious Winner of Mathematical Contest in Modeling, 2013.
 - National Scholarship, Ministry of Education, China.
 
 ## What's new
 
-We open-sourced our implementation of Visual-Inertial Odometry. Check out the code [here][xivo_code].
-
-[![xivo_demo_ucla](assets/demo_ucla_e6.gif)][xivo_code]
-
-XIVO running on our own data.
-
-[![xivo_demo_tumvi](assets/demo_tumvi.gif)][xivo_code]
-
-XIVO running on TUM-VI dataset.
-
-[xivo_code]:https://github.com/ucla-vision/xivo
+- February 2021. Our paper on *An Adaptive Framework for Learning Unsupervised Depth Completion* has been accepted by ICRA 2021.
+- February 2020. Our paper on *Unsupervised Depth Completion from Visual-Inertial Odometry* has been accepted by ICRA 2020.
+- September 2019. We open-sourced our VIO implementation, you can find the code [here][xivo_code].
 
 ## Software
 
@@ -61,6 +59,8 @@ XIVO running on TUM-VI dataset.
 - GeoSup code for our ICRA paper on *Geo-Supervised Visual Depth Prediction*. \[[code][icra19_code]\]
 - A minimal implementation of \\(SE(3)\\) \(actually \\(SO(3)\times \mathbb{R}^3 \\)\) in Tensorflow for geometric learning. \[[code](https://github.com/feixh/tensorflow_se3.git)\]
 - A collection of PnP (Perspective-n-Point) RANSAC solvers. \[[code](https://github.com/feixh/PnPRANAAC.git)\]
+
+[xivo_code]:https://github.com/ucla-vision/xivo
 
 
 ## Demo
@@ -73,7 +73,6 @@ XIVO running on TUM-VI dataset.
   \[[video][video_relocalization]\]
   
 <iframe width="640" height="480" src="https://www.youtube.com/embed/TZTriqQm6nU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 ## Thesis 
 
@@ -90,21 +89,19 @@ XIVO running on TUM-VI dataset.
 [beng_thesis]: {{site.url}}
 
 
-
 ## Publication
 
-- An Adaptive Framework for Learning Unsupervised Depth Completion. \\
+- An Adaptive Framework for Learning Unsupervised Depth Completion\\
     Alex Wong, Xiaohan Fei, Byung-Woo Hong, and Stefano Soatto\\
-    To appear in *IEEE Robotics and Automation Letters* (RA-L), 2021.
-
+    In *International Conference on Robotics and Automation*, 2021\\
+    Also in *IEEE Robotics and Automation Letters* (RA-L), 2021\\
+    \[[paper][icra21_paper]\]
 
 - Unsupervised Depth Completion from Visual-Inertial Odometry\\
     Alex Wong\*, Xiaohan Fei\*,  Stephanie Tsuei, and Stefano Soatto\\
     In *International Conference on Robotics and Automation*, 2020\\
     Also in *IEEE Robotics and Automation Letters (RA-L)*, 2020\\
-    \[[preprint][icra20_preprint]\]
-
-[icra20_preprint]:https://arxiv.org/abs/1905.08616
+    \[[paper][icra20_preprint]\]-\[[code][icra20_code]\]-\[[data][icra20_data]\]-\[[void benchmark][void_benchmark]\]
 
 - Geo-Supervised Visual Depth Prediction\\
     Xiaohan Fei, Alex Wong, and Stefano Soatto\\
@@ -129,6 +126,15 @@ XIVO running on TUM-VI dataset.
     In *Proceedings of European Conference on Computer Vision*, 2016\\
     \[[paper][eccv16_paper]\]-\[[poster][eccv16_poster]\]
 
+<!-- ICRA21 -->
+[icra21_paper]:{{site.url}}/assets/adaptive_framework.pdf
+
+<!-- ICRA20 -->
+[icra20_preprint]:https://arxiv.org/abs/1905.08616
+[icra20_code]:https://github.com/alexklwong/unsupervised-depth-completion-visual-inertial-odometry
+[icra20_data]:https://github.com/alexklwong/void-dataset
+[void_benchmark]:https://github.com/alexklwong/awesome-state-of-depth-completion
+
 <!-- ICRA19 -->
 [icra19_paper]: https://arxiv.org/abs/1807.11130.pdf
 [icra19_poster]: https://docs.google.com/presentation/d/15iNPC1V6dx52CqyeNivtYySM-cqvE0ghAH9C8Tzd6yQ/edit?usp=sharing
@@ -141,7 +147,6 @@ XIVO running on TUM-VI dataset.
 [eccv18_video]: https://youtu.be/TZTriqQm6nU
 [eccv18_data]: https://github.com/feixh/VISMA
 [eccv18_supmat]: {{ site.url }}/assets/0533-supp.pdf
-
 
 <!-- CVPR16 -->
 [cvpr16_demo_video]: https://youtu.be/Rt2jdurowfE
