@@ -47,7 +47,7 @@ XIVO running on TUM-VI dataset. -->
 - National Scholarship, Ministry of Education, China.
 
 ## What's new
-- June 2021. We attempted to address the social distancing problem for stationary cameras using human pose as a prior. The method involves a novel linear solver to auto-calibrate the stationary cameras, and jointly estimate the 3-D position of the joints detected on human bodies. The pre-print can be found [here][physical_distance_arxiv].
+- June 2021. We attempted to tackle the social distancing problem for stationary cameras using human pose as a prior. Our method involves a novel linear solver to auto-calibrate the cameras, and jointly estimate the 3-D position of the joints detected on human bodies. The manuscript *Single View Physical Distance Estimation using Human Pose* can be found [here][physical_distance_arxiv].
 - February 2021. Our paper on *An Adaptive Framework for Learning Unsupervised Depth Completion* has been accepted by ICRA 2021.
 - February 2020. Our paper on *Unsupervised Depth Completion from Visual-Inertial Odometry* has been accepted by ICRA 2020.
 - September 2019. We open-sourced our VIO implementation, you can find the code [here][xivo_code].
