@@ -47,6 +47,7 @@ XIVO running on TUM-VI dataset. -->
 - National Scholarship, Ministry of Education, China.
 
 ## What's new
+- July 2021. Our paper on *Single View Physical Distance Estimation using Human Pose* for the social distancing problem was accepted by ICCV 2021!
 - June 2021. We attempted to tackle the social distancing problem for stationary cameras using human pose as a prior. Our method involves a novel linear solver to auto-calibrate the cameras, and jointly estimate the 3-D position of the joints detected on human bodies. The manuscript *Single View Physical Distance Estimation using Human Pose* can be found [here][physical_distance_arxiv].
 - February 2021. Our paper on *An Adaptive Framework for Learning Unsupervised Depth Completion* has been accepted by ICRA 2021.
 - February 2020. Our paper on *Unsupervised Depth Completion from Visual-Inertial Odometry* has been accepted by ICRA 2020.
@@ -93,6 +94,7 @@ XIVO running on TUM-VI dataset. -->
 
 - Single View Physical Distance Estimation using Human Pose\\
     Xiaohan Fei, Henry Wang, Xiangyu Zeng, Lin Lee Cheong, Meng Wang, Joseph Tighe\\
+    Accepted by *International Conference on Computer Vision* (ICCV), 2021\\
     \[[pre-print][physical_distance_arxiv]\]
 
 - An Adaptive Framework for Learning Unsupervised Depth Completion\\
