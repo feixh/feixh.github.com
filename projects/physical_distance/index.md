@@ -7,7 +7,7 @@ exclude: true
 
 <!-- set exclude to true to prevent the entry entering the navigation bar -->
 
-[Xiaohan Fei](https://feixh.github.io), Henry Wang, Xiangyu Zeng, Lin-Lee Cheone, Meng Wang, [Joseph Tighe](https://jovapo.github.io/)
+[Xiaohan Fei](https://feixh.github.io), Henry Wang, Xiangyu Zeng, Lin-Lee Cheong, Meng Wang, [Joseph Tighe](https://jovapo.github.io/)
 
 Amazon Web Services
 
