@@ -28,7 +28,7 @@ Before joining Vision Lab, I\'ve obtained my B.Eng. from [Zhejiang University][a
 
 A recent CV is [available here][resume].
 
-[resume]: {{ site.url }}/assets/feixh.pdf
+[resume]: {{site.url}}/assets/feixh.pdf
 
 [about_zju]: http://www.zju.edu.cn/english/
 [about_ucla]: http://www.ucla.edu
