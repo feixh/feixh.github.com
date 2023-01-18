@@ -18,6 +18,8 @@ processEscapes: true
 <!-- *Seeking Truth, Pursuing Innovation.* -->
 
 ## About me
+I'm a senior Applied Scientist working on computer vision at AWS AI Labs. My speciality is in 3-D computer vision, visual-inertial sensor fusion, and system engineering.
+
 I defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics* in August 2019. From Sept. 2014 - Sept. 2019, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
 
 My research interests include computer vision, robotics, and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real-world problems in multi-sensor settings. 
