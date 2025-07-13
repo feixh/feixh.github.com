@@ -18,11 +18,11 @@ processEscapes: true
 <!-- *Seeking Truth, Pursuing Innovation.* -->
 
 ## About me
-I'm a senior Applied Scientist working on computer vision at AWS AI Labs. My speciality is in 3-D computer vision, visual-inertial sensor fusion, and system engineering.
+I'm a Principal Applied Scientist working on multi-modal foundation models (video generation models in particular) at Amazon Artificial General Intelligence (AGI) org. In the past, I was with AWS AI Labs, and Meta Reality Labs where I worked on several initiatives on 3-D computer vision.
 
 I defended my Ph.D. thesis on *Inertial-aided Visual Perception of Geometry and Semantics* in August 2019. From Sept. 2014 - Sept. 2019, I've been working at [UCLA Vision Lab][about_visionlab] with [Prof. Stefano Soatto][about_ss].
 
-My research interests include computer vision, robotics, and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real-world problems in multi-sensor settings. 
+My research interests include computer vision, robotics, and machine learning. Specifically, I'm interested in developing models (include, but not limited to, deep learning models) and engineering systems to solve real-world problems in multi-sensor (and multi-modal) settings. 
 
 Our paper *Geo-Supervised Visual Depth Prediction* about leveraging visual-inertial sensor packages, and gravity-induced shape priors to improve depth prediction has won the *Best Paper Award in Robot Vision* at ICRA 2019, out of 2900 submissions.
 
@@ -49,6 +49,7 @@ XIVO running on TUM-VI dataset. -->
 - National Scholarship, Ministry of Education, China.
 
 ## What's new
+- December 2024. We launched Amazon Nova family of models -- Amazon's family of multi-modal foundation models. See it in [AWS news blog](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/) and [the technical report](https://arxiv.org/abs/2506.12103).
 - July 2021. Our paper on *Single View Physical Distance Estimation using Human Pose* ([pre-print][physical_distance_arxiv]) for the social distancing problem was accepted by ICCV 2021!
 - February 2021. Our paper on *An Adaptive Framework for Learning Unsupervised Depth Completion* has been accepted by ICRA 2021.
 - February 2020. Our paper on *Unsupervised Depth Completion from Visual-Inertial Odometry* has been accepted by ICRA 2020.
@@ -91,6 +92,25 @@ XIVO running on TUM-VI dataset. -->
 
 
 ## Publication
+
+- The Amazon Nova Family of Models: Technical Report and Model Card\\
+\[[arXiv](https://arxiv.org/abs/2506.12103)\], 2024
+
+- Towards visual foundational models of physical scenes\\
+    Chethan Parameshwara, Alessandro Achille, Matthew Trager, Xiaolong Li, Jiawei Mo, Ashwin Swaminathan, CJ Taylor, Dheera Venkatraman, Xiaohan Fei, Stefano Soatto\\
+    \[[arXiv](https://arxiv.org/pdf/2306.03727)\], 2023
+
+- A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D\\
+    Xiaohan Fei, Chethan Parameshwara, Jiawei Mo, Xiaolong Li, Ashwin Swaminathan, CJ Taylor, Paolo Favaro, Stefano Soatto\\
+    \[[arXiv](https://arxiv.org/pdf/2402.18780)\], 2023
+
+- Fast sparse view guided nerf update for object reconfigurations\\
+    Ziqi Lu, Jianbo Ye, Xiaohan Fei, Xiaolong Li, Jiawei Mo, Ashwin Swaminathan, Stefano Soatto\\
+    \[[arXiv](https://arxiv.org/pdf/2403.11024)\], 2023
+
+- Grounded compositional and diverse text-to-3d with pretrained multi-view diffusion model\\
+    Xiaolong Li, Jiawei Mo, Ying Wang, Chethan Parameshwara, Xiaohan Fei, Ashwin Swaminathan, CJ Taylor, Zhuowen Tu, Paolo Favaro, Stefano Soatto\\
+    \[[arXiv](https://arxiv.org/pdf/2404.18065?)\], 2023
 
 - Single View Physical Distance Estimation using Human Pose\\
     Xiaohan Fei, Henry Wang, Xiangyu Zeng, Lin Lee Cheong, Meng Wang, Joseph Tighe\\
