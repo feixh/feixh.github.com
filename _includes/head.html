@@ -6,7 +6,8 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    {% assign stylesheet_version = site.github.build_revision | default: site.time %}
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ stylesheet_version | date: "%s" }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- add support for MathJax -->
 
