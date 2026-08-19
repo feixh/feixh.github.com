@@ -169,6 +169,41 @@
     font-size: 20px;
 }
 
+.demo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
+
+    @include media-query($on-palm) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.demo-item {
+    margin: 0;
+}
+
+.demo-subtitle {
+    grid-column: 1 / -1;
+    margin: 0;
+    font-size: 20px;
+}
+
+.demo-media {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border: 0;
+    object-fit: contain;
+    background: #000;
+}
+
+.demo-item figcaption {
+    margin-top: $spacing-unit / 4;
+    color: $grey-color-dark;
+}
+
 .post-list {
     margin-left: 0;
     list-style: none;
